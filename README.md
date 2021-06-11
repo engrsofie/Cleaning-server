@@ -10,7 +10,7 @@ The features of coding:
 The advantages of this site: You can service any kind of cleaning from this website.
 
 
-Client-side repo : https://github.com/Porgramming-Hero-web-course/complete-website-client-engrsofie 
+Client-side repo : https://github.com/engrsofie/Cleaning-client
 
 Server-side: https://github.com/engrsofie/Cleaning-server
 
