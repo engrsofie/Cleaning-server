@@ -12,6 +12,6 @@ The advantages of this site: You can service any kind of cleaning from this webs
 
 Client-side repo : https://github.com/Porgramming-Hero-web-course/complete-website-client-engrsofie 
 
-Server-side: https://github.com/Porgramming-Hero-web-course/complete-website-server-engrsofie 
+Server-side: https://github.com/engrsofie/Cleaning-server
 
 Live-Link: https://cleanerservice-36bef.web.app/
